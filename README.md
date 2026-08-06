@@ -17,7 +17,7 @@ I tested the pipeline by manually retrieving the secret from CloudShell and conf
 
 ## Architecture
 
-![Architecture Diagram](architecture/Architecture_Diagram.png)
+![Architecture Diagram](https://github.com/NightErth/AWS-Security-Monitoring-System/blob/main/Architecture%20Diagram.png)
 
 The flow is straightforward:
 
