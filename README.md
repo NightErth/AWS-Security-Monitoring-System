@@ -90,24 +90,6 @@ Used to simulate an access event by running the AWS CLI directly from the consol
 
 ---
 
-## Repository Structure
-
-```text
-├── architecture/
-│   └── Architecture_Diagram.png
-├── screenshots/
-│   ├── CloudWatch_alarm_in_alarm_state.png
-│   ├── AWS_Secrets_Manager_Secret.png
-│   ├── CloudTrail_Validation_Email.png
-│   ├── Metric_Filter_Pattern.png
-│   ├── Alarm_Notification_Email.png
-│   ├── Cloudshell_Terminal.png
-│   └── SNS_subscription_confirmation.png
-├── README.md
-```
-
----
-
 ## Screenshots
 
 **Secrets Manager secret details** — the monitored secret, `TopSecretInfo_Org`, along with its ARN and encryption key.
